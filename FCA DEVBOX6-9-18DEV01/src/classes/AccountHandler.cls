@@ -1,7 +1,7 @@
 /**
  * Class AccountHandler
  *
- * Trigger Handler for the Account SObject. This class implements the ITrigger
+ * Trigger Handler for the Account SObject... This class implements the ITrigger
  * interface to help ensure the trigger code is bulkified and all in one place.
  */
 public with sharing class AccountHandler implements ITrigger
